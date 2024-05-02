@@ -1,0 +1,18 @@
+.recharts-layer.recharts-pie,
+.recharts-sector:focus {
+    outline: none !important;
+    outline-color: none;
+    outline-style: none;
+    outline-width: none;
+}
+
+
+.recharts-curve.recharts-pie-label-line {
+
+     display: none;
+}
+
+
+input[type="file"] {
+    display: none;
+}
